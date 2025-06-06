@@ -6,8 +6,6 @@ A real-time chat application built using the **MERN** stack (MongoDB, Express, R
 
 ![Chat Demo](./frontend/public/MERN_Stack_Chat_App.gif)
 
-_(Make sure to place your `demo.gif` inside a `media/` folder in your repo)_
-
 ## 🚀 Features
 
 - ⚡ Real-time messaging with Socket.IO
