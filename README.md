@@ -29,7 +29,7 @@ A real-time chat application built using the **MERN** stack (MongoDB, Express, R
 ## 📁 Folder Structure
 
 mern-chat-app/
-├── frontend/ # React frontend
+├── client/ # React frontend
 │ ├── src/
 │ │ ├── components/ # UI Components
 │ │ ├── pages/ # Screens (Login, Chat)
