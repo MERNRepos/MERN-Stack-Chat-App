@@ -26,10 +26,6 @@ A real-time chat application built using the **MERN** stack (MongoDB, Express, R
 | Auth     | JSON Web Tokens (JWT)               |
 | Styling  | Tailwind CSS / Bootstrap (optional) |
 
-## 📁 Folder Structure
-
-<pre lang="markdown"><code>## 📁 Folder Structure ```bash mern-chat-app/ ├── client/ # React frontend │ ├── src/ │ │ ├── components/ # UI Components │ │ ├── pages/ # Screens (Login, Chat) │ │ ├── App.js # Main app │ │ └── socket.js # Socket.IO client setup ├── server/ # Express backend │ ├── controllers/ # Business logic │ ├── models/ # Mongoose schemas │ ├── routes/ # API routes │ ├── socket/ # Socket.IO config │ ├── config/ # Database connection │ └── server.js # Entry point ├── media/ # GIFs and screenshots └── README.md ``` </code></pre>
-
 ## 🧑‍💻 Getting Started
 
 ```bash
